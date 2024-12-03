@@ -1,0 +1,164 @@
+========== HEADER ==========
+.nav__logo-circle
+K
+
+.nav__logo-name
+Kushal Patel.
+
+.nav__title
+Menu
+
+.nav__name
+Kushal
+
+.nav__link
+Home - About Me - Projects - Contact Me
+
+
+========== HOME ==========
+.home__name
+Kushal Patel
+
+.home__social-link
+https://www.instagram.com/
+https://www.linkedin.com/
+https://github.com/
+
+.home__description
+<b>Software and Web Developer</b>, with expertise in creating intutive, high-qualkity application and websites. Leveraging knowledge in programming and desgin, I craft solutions that are both functional and user-friendly. explore my project to see my dedication to impactful digital experience.
+
+.home__scroll-text
+Scroll Down
+
+
+========== ABOUT ==========
+.section__title-1
+About Me.
+
+.about__description
+Passionate about creating <b>engaging Web Application</b> with 
+<b>UI/UX User Interface</b>, I blend technical skills and desgin to deliver impactful solutions.
+
+.about__item
+<b>My Skills Are:</b> HTML, CSS, JavaScript, 
+C#, C++, Git & GitHub, Python, MySql & 
+Figma.
+
+.button
+Contact Me
+
+.button__ghost
+https://www.linkedin.com/
+
+
+========== SERVICES ==========
+.section__title-2
+Services.
+
+.services__title .services__description
+Web Design
+I create beautiful, responsive web designs that combine aesthetics with functionality. With expertise in UI/UX principles, I ensure that every interface is intuitive, efficient, and delightful to use. My goal is to provide visually engaging designs that enhance the overall user experience.
+
+Full-Stack Development
+I specialize in both front-end and back-end development to deliver tailored web solutions. Using HTML, CSS, JavaScript, Python, and SQL, I build high-performance websites designed to meet unique project specifications. Each site is developed with a focus on smooth navigation, scalability, and exceptional performance.
+
+Software & App Solutions
+Bringing versatility to every project, I transform websites into fully functional software and mobile applications. From design to deployment, I ensure each application is optimized for cross-platform compatibility, delivering a seamless experience for users on web and mobile devices alike.
+
+
+
+========== PROJECTS ==========
+.section__title-1
+Projects.
+
+.projects__subtitle 
+Website
+App
+
+.projects__title 
+Hiring Website Landing Page
+Rock, paper & scissor Game 
+Musify website - Music Website
+Budget App (Made with Python)
+Mars Rover with ardiuno Uno
+
+
+
+.projects__description
+This project features a modern, responsive landing page designed to connect job seekers with employers. Key elements include an intuitive layout, efficient search and filter functionality, and prominent call-to-action buttons. The design ensures accessibility on both desktop and mobile devices, while integrated contact forms facilitate direct communication between employers and candidates. Built with HTML, CSS, and JavaScript, this landing page delivers a seamless user experience tailored for the hiring process.
+
+.projects__link
+View
+
+https://github.com/
+https://dribbble.com/
+
+========== CONTACT ==========
+.section__title-2
+Contact Me.
+
+.contact__description-1
+Curious about my projects or looking for a developer with a creative edge? I’m here to chat! Whether it’s collaborating on ideas, discussing opportunities, or diving into innovative tech solutions, let’s make it happen. Drop me a message—I’m excited to see where our conversation can lead!
+
+.contact__description-2
+Just your <b>Name</b> and <b>Email Address</b>—that’s all it takes to start our conversation. You’ll only hear from me directly. Let’s connect and explore new possibilities together!
+
+.contact__title
+Send Me A Message 
+
+.contact__label - placeholder
+First Name 
+Email Address
+Subject
+Message
+
+.contact__button
+Send Message
+
+.contact__social-description-1
+Follow along on social media to see my latest work, insights, and creative journey. Let’s keep in touch!
+
+.contact__social-description-2
+Join me online to explore ideas, connect, and stay updated on my newest projects. Let’s inspire each other!
+
+.contact__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.linkedin.com/
+
+
+========== CONTACT JS ==========
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   // Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (service error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Subject: {{user_subject}}
+
+Message: {{user_message}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__links
+Home - About - Services - Projects - Contact M
+
+.footer__copy
+&#169; Designed and developed by<a href="#">Kushal Patel</a>. Empowering ideas through code.
