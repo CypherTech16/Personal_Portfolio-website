@@ -19,4 +19,4 @@ Open index.html and begin your journey through my work.
 Navigate my projects and get a feel for the passion and precision behind each line of code.
 📬 Let’s Connect
 
-Got questions or opportunities? Reach me at Patelkushal1877@gmail.com. Let's create something amazing together!
+Got questions or opportunities? Reach me at Patelkushal1877@gmail.com || By LinkedIn at https://www.linkedin.com/in/kushal-patel-452a942ab/ . Let's create something amazing together!
